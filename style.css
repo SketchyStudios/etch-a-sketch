@@ -1,0 +1,32 @@
+.container{
+    
+}
+
+.grid-box{
+    
+    border: solid;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-row{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.reset{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+h1{
+    display:flex;
+    justify-content: center;
+}
+
+html{
+    background-color: maroon;
+}
